@@ -13,10 +13,8 @@ Controlling an LCD1602 display using the BeagleBone and I2C protocol is a powerf
 <div style="text-align: justify">
 In this example, I want to use Beagle Bone Black (BBB) to control LCD1602 through I2C-LCD module and use it as a console that display any characters I type on keyboard. Let’s take a look at the result:
 </div>
-<video width="720" height="480" controls>
-  <source src="/assets/img/posts/lcd1602_i2c_bbb/Media1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+{% include embed/youtube.html id='ap59oXkuTcQ' %}
 
 ## Physical Connection
 ### 1. LCD1602
@@ -193,7 +191,4 @@ In user space, I create a C application that use ioctl API from `#include <sys/i
 ## Demo
 ![](/assets/img/posts/lcd1602_i2c_bbb/demo1.png)
 
-<video width="720" height="480" controls>
-  <source src="/assets/img/posts/lcd1602_i2c_bbb/Media2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+{% include embed/youtube.html id='ap59oXkuTcQ' %}
