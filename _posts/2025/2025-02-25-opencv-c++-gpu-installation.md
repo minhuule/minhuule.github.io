@@ -101,7 +101,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 * `OPENCV_EXTRA_MODULES_PATH`: correct your opencv modules path
 * `CUDA_ARCH_BIN`: This part needs to be correct for the CUDA library to work. This number is the Compute capability of the GPU, which can be checked at 2 sources:​
   * <https://en.wikipedia.org/wiki/CUDA#GPUs_supported​>
-  ![](/assets/img/posts/opencv-gpu/GPUs_supported​.png)
+  ![](/assets/img/posts/opencv-gpu/gpu_supported.png)
 
   * <https://developer.nvidia.com/cuda-gpus>
   ![](/assets/img/posts/opencv-gpu/cuda-gpus.png)
