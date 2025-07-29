@@ -3,7 +3,7 @@ title: OpenCV CUDA Installation for C++ Application on Ubuntu
 date: 2025-02-25 6:45:12 +0800
 categories: [Tools]
 tags: [opencv, cuda, gpu]
-image: /assets/img/posts/opencv-c++-gpu/cover.jpg
+image: /assets/img/posts/opencv-gpu/cover.jpg
 ---
 This guide walks you through installing OpenCV with CUDA support for C++ application on Ubuntu. OpenCV is a powerful computer vision tool. By combining it with GPU acceleration via CUDA, you can significantly speed up tasks like image processing, object detection, and real-time video analysis.
 
@@ -101,10 +101,10 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 * `OPENCV_EXTRA_MODULES_PATH`: correct your opencv modules path
 * `CUDA_ARCH_BIN`: This part needs to be correct for the CUDA library to work. This number is the Compute capability of the GPU, which can be checked at 2 sources:​
   * <https://en.wikipedia.org/wiki/CUDA#GPUs_supported​>
-  ![alt text](/assets/img/posts/opencv-c++-gpu/GPUs_supported​.png)
+  ![](/assets/img/posts/opencv-gpu/GPUs_supported​.png)
 
   * <https://developer.nvidia.com/cuda-gpus>
-  ![alt text](/assets/img/posts/opencv-c++-gpu/cuda-gpus.png)
+  ![](/assets/img/posts/opencv-gpu/cuda-gpus.png)
 
 Then build with command
 ```
