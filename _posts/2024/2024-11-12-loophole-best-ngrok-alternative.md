@@ -1,6 +1,6 @@
 ---
 title: Loophole – Best ngrok alternative for port forwarding
-date: 2025-03-13 8:05:00 +0800
+date: 2024-11-12 8:05:00 +0800
 categories: [Tools]
 tags: [loophole, port forwarding]
 image: /assets/img/posts/loophole_port_forwarding/undraw_server_status_5pbv.png
