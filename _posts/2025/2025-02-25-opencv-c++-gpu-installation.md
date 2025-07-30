@@ -5,7 +5,9 @@ categories: [Tools]
 tags: [opencv, cuda, gpu]
 image: /assets/img/posts/opencv-gpu/cover.jpg
 ---
+<div style="text-align: justify">
 This guide walks you through installing OpenCV with CUDA support for C++ application on Ubuntu. OpenCV is a powerful computer vision tool. By combining it with GPU acceleration via CUDA, you can significantly speed up tasks like image processing, object detection, and real-time video analysis.
+</div>
 
 ## Environment
 
