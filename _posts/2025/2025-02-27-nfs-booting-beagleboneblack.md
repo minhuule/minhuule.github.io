@@ -5,6 +5,9 @@ categories: [Linux Kernel]
 tags: [linux kernel, beagle bone]
 image: /assets/img/posts/nfs_booting_bbb/cover.png
 ---
+
+{% include embed/youtube.html id='QspWPlQ91UM' %}
+
 Booting Beaglebone Black using NFS allows a machine to boot from an operating system stored on a network server rather than from uSD or EMMC.
 ## Requirement
 Ubuntu 20.04 OS or Virtual Ubuntu 20.04 machine on Windows

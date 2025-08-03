@@ -1,6 +1,6 @@
 ---
 title: NVIDIA Driver and CUDA Installation on Ubuntu
-date: 2025-02-23 20:14:00 +0800
+date: 2025-01-18 20:14:00 +0800
 categories: [Tools]
 tags: [nvidia, cuda, gpu]
 image: /assets/img/posts/nvidia-cuda-toolkit/cover.jpg

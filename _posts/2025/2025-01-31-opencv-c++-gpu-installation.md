@@ -1,6 +1,6 @@
 ---
 title: OpenCV CUDA Installation for C++ Application on Ubuntu
-date: 2025-02-25 6:45:12 +0800
+date: 2025-01-31 6:45:12 +0800
 categories: [Tools]
 tags: [opencv, cuda, gpu]
 image: /assets/img/posts/opencv-gpu/cover.jpg
