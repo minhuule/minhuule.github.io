@@ -1,5 +1,5 @@
 ---
-title: Build and Run AOSP 13 Emulator on Android Studio
+title: AOSP 13 Emulator - Build and run on Android Studio
 date: 2024-11-25 19:28:00 +0800
 categories: [Android Automotive]
 tags: [aosp, raspberry pi 4, emulator, android studio]

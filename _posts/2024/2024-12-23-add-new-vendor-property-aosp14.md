@@ -1,5 +1,5 @@
 ---
-title: Add new Vendor Property AOSP 14
+title: AOSP 14 - Add new Vendor Property
 date: 2024-12-23 13:08:00 +0800
 categories: [Android Automotive]
 tags: [property, aosp, raspberry pi 4]

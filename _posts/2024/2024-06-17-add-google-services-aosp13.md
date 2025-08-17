@@ -1,5 +1,5 @@
 ---
-title: Add Google Services to AOSP 13
+title: AOSP 13 - Add Google Services
 date: 2024-06-17 15:12:00 +0800
 categories: [Android Automotive]
 tags: [google services, aosp, raspberry pi 4]

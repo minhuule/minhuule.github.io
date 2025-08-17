@@ -1,5 +1,5 @@
 ---
-title: Build and Flash RK3128 Uboot, Kernel and Android 5.1
+title: RK3128 - AOSP 5.1 Build (including Uboot and Kernel)
 date: 2025-01-03 8:52:00 +0800
 categories: [Android Automotive]
 tags: [rk3128, aosp]
