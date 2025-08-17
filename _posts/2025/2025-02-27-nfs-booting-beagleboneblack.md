@@ -1,5 +1,5 @@
 ---
-title: NFS Booting on BeagleBone Black
+title: BeagleBone Black - NFS Booting
 date: 2025-02-27 14:10:00 +0800
 categories: [Linux Kernel]
 tags: [linux kernel, beagle bone]

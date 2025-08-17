@@ -1,5 +1,5 @@
 ---
-title: LCD1602 – Console Display on BeagleBone Black
+title: BeagleBone Black - I2C LCD1602 Console Display
 date: 2025-04-10 18:27:00 +0800
 categories: [Linux Kernel]
 tags: [linux kernel, beagle bone, lcd1602, I2C]

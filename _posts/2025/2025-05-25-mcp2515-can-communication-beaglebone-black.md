@@ -1,5 +1,5 @@
 ---
-title: MCP2515 – CAN Communication on BeagleBone Black
+title: BeagleBone Black - SPI to CAN Communication (MCP2515)
 date: 2025-05-25 9:38:00 +0800
 categories: [Linux Kernel]
 tags: [linux kernel, beagle bone, CAN]
