@@ -20,6 +20,8 @@ Second, install NVIDIA CUDA Toolkit and OpenCV C++. Check out my blog on how to 
 
 * [🚀 NVIDIA Driver and CUDA Installation on Ubuntu](https://www.duclee.com/posts/nvidia-cuda-toolkit-installation/)
 * [🚀 OpenCV CUDA Installation for C++ Application on Ubuntu](https://www.duclee.com/posts/opencv-c++-gpu-installation)
+* TensorRT - Download from [nvidia-tensorrt-8x-download](https://developer.nvidia.com/nvidia-tensorrt-8x-download). Select tar packages depending on your environment. In my case I get Linux x86_64 and CUDA 12.0.
+![](/assets/img/posts/yolov7-tensorrt-cpp/tensorrt.png)
 
 ## Source code
 Clone the repository: [duclee1509/yolov7-tensorrt-cpp](https://github.com/duclee1509/yolov7-tensorrt-cpp.git)
@@ -32,6 +34,8 @@ export PROJECT_PATH="<path to yolov7-tensorrt-cpp folder>"
 
 ## Tensorrtx Yolov7
 ### 1. Build yolov7
+In `CMakeLists.txt`, update your TensorRT links depending on the packages download location.
+
 ```
 cd ${PROJECT_PATH}/yolov7
 mkdir build && cd build
